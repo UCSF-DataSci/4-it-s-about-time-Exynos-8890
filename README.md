@@ -178,7 +178,7 @@ In this part, you will implement the following functions in `part2_modeling.ipyn
 
     -   Feature names are case-insensitive and can contain extra text
 
-    -   Return a DataFrame containing the extracted features
+    -   Return a DataFrame containing the extracted atures
 2.  `build_arima_model(series, order=(1,1,1), output_dir='plots')`：
     -   对输入的时间序列拟合ARIMA模型
 
